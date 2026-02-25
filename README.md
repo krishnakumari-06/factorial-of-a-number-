@@ -10,7 +10,6 @@ To write and execute an Assembly language program to perform the factorial of a 
 - Personal computer with Keil software
 
 ---
-
 ## ALGORITHM
 1. **Start**
 2. **Input**: Read the number `n`.
@@ -22,12 +21,10 @@ To write and execute an Assembly language program to perform the factorial of a 
    - Increment `i` by `1`.
 5. **Output**: Store or print the value of factorial.
 6. **End**
-
 ---
 
 ## FLOWCHART
 <img width="506" height="525" alt="image" src="https://github.com/user-attachments/assets/f3b47187-6f0f-490c-8704-f2973cb2b276" />
-
 
 ---
 
@@ -52,18 +49,17 @@ THIN:RET
 END
 
 ```
-OUTPUT
+## OUTPUT
 
  <img width="954" height="202" alt="image" src="https://github.com/user-attachments/assets/c12124ef-61cc-4c43-9fa1-b9e02acf8c69" />
 
 ---
-MANUAL CALCULATIONS
+## MANUAL CALCULATIONS
 
 ![WhatsApp Image 2026-02-25 at 8 32 44 PM](https://github.com/user-attachments/assets/304ee31d-9195-4425-8c80-bd2b92982ab3)
 
 ---
-
-RESULT
+## RESULT
 
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
 
